@@ -1,3 +1,17 @@
+Task 1: Create IAM users and groups
+
+1. Create two IAM users named developer-user and tester-user.
+2. Create two IAM groups named Developers and Testers.
+3. Add developer-user to Developers and tester-user to Testers.
+Evidence to submit: Screenshots of both users, groups, and group membership.
+
+
+
+
+
+
+
+
 
 ## Conclusion
 
