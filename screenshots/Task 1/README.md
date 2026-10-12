@@ -1,1 +1,7 @@
 
+## Conclusion
+
+In this practical, I successfully created two IAM users named `developer-user` and `tester-user`, and two IAM groups named `Developers` and `Testers` in AWS IAM. 
+I added `developer-user` to the `Developers` group and `tester-user` to the `Testers` group. This practical helped me understand how to organize users into groups
+and manage access permissions efficiently using AWS Identity and Access Management (IAM). Group-based permission management improves security, simplifies 
+administration, and supports the principle of least privilege.
