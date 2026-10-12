@@ -6,7 +6,7 @@ Task 2: Attach IAM policies
 Evidence to submit: Screenshots of the policy attachments and your explanation.
 
 
-4. Write one or two sentences explaining the difference between these policies
+3. Write one or two sentences explaining the difference between these policies
 
  ->  AmazonS3ReadOnlyAccess allows a user to view and read S3 buckets and objects
    but does not allow them to create, modify, or delete them. AmazonS3FullAccess
